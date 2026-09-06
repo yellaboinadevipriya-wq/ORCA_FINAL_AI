@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700;800;900&display=swap');
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Inter,system-ui,sans-serif;background:#061522;color:#eaf9ff}button,input{font:inherit}button{cursor:pointer}::selection{background:#22d3ee;color:#00141e}
